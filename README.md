@@ -4,6 +4,7 @@ Using Redux for state managment , React-Navigation for navigation and Axios for 
 Using Enzyme and JEST for testing.
 
 ## Run & Test
-
-Run : react-native run-android
-Test : yarn test
+### Run
+    >  react-native run-android
+### Test
+    >  yarn test
